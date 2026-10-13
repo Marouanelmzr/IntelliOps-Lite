@@ -4,8 +4,9 @@ Mini-plateforme de traitement d'incidents : trois agents (Extraction, Analyse,
 Notification) qui échangent via un contrat commun (src/contrat.py).
 
 ## Équipe
+- Marouane Elmozariahi
+- Nour Bakkali
 - Ahmed Amine Elouardi
-- BAKKALI Nour
 
 intelliops-lite/
 ├── README.md
