@@ -33,7 +33,7 @@ def classer(evt: Evenement) -> str:
         resultat = re.search(r"restarts=(\d+)", evt.message)
         redemarrages = int(resultat.group(1)) if resultat else 0
 
-        if redemarrages > 100:
+        if redemarrages >= 10:
             return "CRITICAL"
 
         return "MEDIUM"
