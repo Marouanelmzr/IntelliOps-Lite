@@ -5,6 +5,7 @@ Notification) qui échangent via un contrat commun (src/contrat.py).
 
 ## Équipe
 - Ahmed Amine Elouardi
+- BAKKALI Nour
 
 intelliops-lite/
 ├── README.md
